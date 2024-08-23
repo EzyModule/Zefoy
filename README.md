@@ -40,8 +40,8 @@ In this section, you'll find solutions to common issues you might encounter whil
 ### A. TikTok Video Link Requirements
 - **Public Account**: Ensure your TikTok account is not locked or private. Videos must be set to public.
 - **Example Links**: Here are some examples of correct video links:
-    - https://vt.tiktok.com/ZSNVTS1eE/
-    - https://www.tiktok.com/@rozhak_official/video/7311522299532840198
+    - https://vt.tiktok.com/ZS267Woya/
+    - https://www.tiktok.com/@fatanlehh/video/7405552005319642373?_t=8p71ys2cfRq&_r=1
 - **Correct Link**: Copy the video link directly from the TikTok app or website to avoid errors.
 
 ### B. Error Sending Views
